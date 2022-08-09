@@ -1,0 +1,1 @@
+print("Hi, my name is %a and my age is %b and i live in %c." (%["Dhruv", 14, "Bangalore"]))
